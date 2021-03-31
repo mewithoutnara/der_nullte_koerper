@@ -8,6 +8,11 @@
 <br>
 <br>
 
+*„We don’t want to count, we want to think the count.“ — Alain Badiou* <br>
+
+<br>
+<br>
+<br>
 ## Literatur <br>
 * Lacan, Jacques (1964): Das Seminar, Buch XI,Die vier Grundbegriffe der Psychoanalyse. Turia + Kant, 1986. <br>			      
 * Miller, Jacques-Alain (1965): *Suture (Elements of the Logic of the Signifier).* In: Screen, Volume 18, Issue 4, Winter 1977, Pages 24–34.<br>
