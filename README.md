@@ -6,7 +6,7 @@
 ###### Seminararbeit zu Form und Formalismus - Entwendete Mathematik <br>
 <br>
 
-*„We don’t want to count, we want to think the count.“ — Alain Badiou* <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *„We don’t want to count, we want to think the count.“ — Alain Badiou* <br>
 
 <br>
 <br>
