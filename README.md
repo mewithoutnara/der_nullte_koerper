@@ -1,9 +1,11 @@
 <img src="https://github.com/mewithoutnara/der_nullte_koeper/blob/main/Bildschirmfoto%202021-03-31%20um%2010.59.43%20PM.png"> <br>
 <br>
 <br>
+<br>
 
-## Der nullte Körper <br>
+# Der nullte Körper <br>
 ###### Seminararbeit *Form und Formalismus - Entwendete Mathematik* <br>
+<br>
 <br>
 <br>
 <br>
