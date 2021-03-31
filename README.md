@@ -2,14 +2,26 @@
 # { }
 
 
-# Der nullte Körper <br>
+## Der nullte Körper <br>
+###### &emsp; Seminararbeit zu Form und Formalismus - Entwendete Mathematik <br>
 
-###### eine Seminararbeit zu Form und Formalismus - Entwendete Mathematik <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
 *„We don’t want to count, we want to think the count.“ — Alain Badiou* <br>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
