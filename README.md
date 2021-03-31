@@ -1,6 +1,6 @@
 <img src="https://github.com/mewithoutnara/der_nullte_koeper/blob/main/Bildschirmfoto%202021-03-31%20um%2010.59.43%20PM.png"> <br>
 <br>
-
+<br>
 
 ## Der nullte Körper <br>
 ###### Seminararbeit *Form und Formalismus - Entwendete Mathematik* <br>
@@ -12,6 +12,13 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *„We don’t want to count, we want to think the count.“ — Alain Badiou* <br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
