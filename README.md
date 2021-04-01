@@ -39,7 +39,9 @@
 * Badiou, Alain (1988): *The Void: Proper name of being.* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *One, count-as-one, unicity, and forming-into-one.* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; In: Being and Event. London: Continuum, 2005. <br>
-* Badiou, Alain (1990): *Cantor: ‚Well-Orderedness‘ and the Ordinals.* <br>
+* Badiou, Alain (1990): *Frege;*
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Additional Note on a Contemporary Usage of Frege;* <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Cantor: ‚Well-Orderedness‘ and the Ordinals.* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Succession and Limit. the Infinite.* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; In: Number and Numbers. New York: Polity Press, 2008.<br>
 * Evans, Dylan (1996): *An Introductory Dictionary of Lacanian Psychoanalysis.* Routledge, 1996. <br>
