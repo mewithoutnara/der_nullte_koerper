@@ -23,6 +23,17 @@
 <br>
 <br>
 <br>
+
+```supercollider
+
+[  ].bubble.unbubble
+
+[  ].unbubble.bubble
+
+```
+
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -33,9 +44,7 @@
 <br>
 
 ## Literatur <br>
-* Lacan, Jacques (1964): *Das Seminar, Buch XI, Die vier Grundbegriffe der Psychoanalyse.* Turia + Kant, 1986. <br>			      
-* Miller, Jacques-Alain (1965): *Suture (Elements of the Logic of the Signifier).* In: Screen, Volume 18, Issue 4, Winter 1977, Pages 24–34.<br>
-* Lacan, Jacques (1973): *Fadenringe.* In: Das Seminar, Buch XX, Encore. Berlin: Quadriga, 1986. <br>
+	      
 * Badiou, Alain (1988): *The Void: Proper name of being.* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *One, count-as-one, unicity, and forming-into-one.* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; In: Being and Event. London: Continuum, 2005. <br>
@@ -44,5 +53,16 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Cantor: ‚Well-Orderedness‘ and the Ordinals.* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Succession and Limit. the Infinite.* <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; In: Number and Numbers. New York: Polity Press, 2008.<br>
+* Badiou, A., Mackay, R., Brassier, R., (2012): *Alain Badiou, Philosophy, Sciences, Mathematics (Interview).* In: [Collapse Volume I, 11-26](https://www.urbanomic.com/chapter/collapse-i-alain-badiou-philosophy-sciences-mathematics/) <br>
 * Evans, Dylan (1996): *An Introductory Dictionary of Lacanian Psychoanalysis.* Routledge, 1996. <br>
-* Badiou, A., Mackay, R., Brassier, R., (2012): *Alain Badiou, Philosophy, Sciences, Mathematics (Interview).* In: [Collapse Volume I, 11-26](https://www.urbanomic.com/chapter/collapse-i-alain-badiou-philosophy-sciences-mathematics/)
+* Lacan, Jacques (1964): *Das Seminar, Buch XI, Die vier Grundbegriffe der Psychoanalyse.* Turia + Kant, 1986. <br>		
+* Lacan, Jacques (1973): *Fadenringe.* In: Das Seminar, Buch XX, Encore. Berlin: Quadriga, 1986. <br>
+* Miller, Jacques-Alain (1965): *Suture (Elements of the Logic of the Signifier).* In: Screen, Volume 18, Issue 4, Winter 1977, Pages 24–34.<br>
+* Nancy, J.-L., Badiou, A., Völker, J. (2017): *Deutsche Philosophie. Ein Dialog (Fröhliche Wissenschaft).* Berlin: Matthes & Seitz, 2017. <br>
+
+<br>
+
+## Sonstiges <br>
+
+Cover Design: Shuoxin Tan <br>
+Code: In der Programmiersprache *SuperCollider* realisieren: https://supercollider.github.io/ <br>
