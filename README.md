@@ -24,6 +24,22 @@
 <br>
 <br>
 
+* [Einführung](#einführung)
+* [Jacques Lacan - Mathematische Formalisierung](#jacques-lacan-mathematische-formalisierung)
+* [Lacan’sche Ontologie - das Subjekt und sein Mangel des Seins](#lacan’sche-ontologie-das-subjekt-und-sein-mangel-des-seins)
+* [Die natürliche Zahlen als geordnete Mengen](#die-natürliche-zahlen-als-geordnete-Mengen)
+   * [von Neumanns Modell der natürlichen Zahlen](#von-neumanns-modell-der-natürlichen-zahlen)
+   * [zermelos-ordinalzahlen](#zermelos-ordinalzahlen)
+* [Die Null und die Eins](#die-null-und-die-eins)
+* [Jacques-Alain Miller - „Suture“, Nähen im Denken](#jacques-alain-miller)
+* [Alain Badiou - Mathematische Ontologie](#alain-badiou)
+* [Ausklang](#ausklang) 
+
+<br>
+<br>
+<br>
+<br>
+
 ```supercollider
 
 [  ].bubble.unbubble
